@@ -60,6 +60,4 @@
             <li> Continue writing and prioritizing user stories </li>
          </ul>
       </div>
-   </body>
 
-</html>
