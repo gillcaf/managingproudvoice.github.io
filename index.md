@@ -4,10 +4,12 @@
    <head>
     <title>Proud Voice Progress Report</title>
    </head>
+   
    <body>
       <div id="assignment">
-         <h1> <strong> Proud Voice Sprint Report 1</h1>
-      </div>
+         <h1> <strong> Proud Voice Sprint Report 1
+            
+         
       <div id="team-info">
          <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
          <p> <i> <strong> Team Member Names and Emails:</strong> </i> </p>
