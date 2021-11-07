@@ -7,6 +7,7 @@
    <body>
       <div id="assignment">
          <h1> <strong> Proud Voice Sprint Report 1
+         <p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>
             
          
       <div id="team-info">
@@ -18,7 +19,6 @@
             <li> Mihir Bhagat </li>
             <li> Pranav Daryanani </li>
          </ul>
-         <p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>
       </div>
       <div id="burndown">
          <p> <strong> Burn Down Chart:</strong> N/A </p>
