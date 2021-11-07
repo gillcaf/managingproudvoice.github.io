@@ -12,10 +12,10 @@
          <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
          <p> <i> <strong> Team Member Names and Emails:</strong> </i> </p>
          <ul>
-            <li> Gillian Cafiero, gillian.cafiero@yale.edu </li>
-            <li> Andrej Samardzic, andrej.samardzic@yale.edu </li>
-            <li> Mihir Bhagat, mihir.bhagat@yale.edu </li>
-            <li> Pranav Daryanani, pranav.darayanani@yale.edu </li>
+            <li> Gill Cafiero </li>
+            <li> Andrej Samardzic </li>
+            <li> Mihir Bhagat </li>
+            <li> Pranav Daryanani </li>
          </ul>
          <p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>
       </div>
