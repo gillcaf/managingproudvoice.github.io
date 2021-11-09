@@ -1,3 +1,41 @@
+         <h1> <strong> Proud Voice Sprint Report 2
+         <p> <i> <strong> Date Created:</strong> 7 November 2021 </i> </p>
+            
+         
+   
+      <div id="burndown">
+         <p> <strong> Burn Down Chart:</strong> N/A </p>
+      </div>
+      <div id="completed">
+         <p> <strong> Completed Stories in this Sprint:</strong> Zero </p>
+      </div>
+      <div id="narrative">
+         <p> <strong> Narrative of What Was Accomplished Since Last Report:</strong></p>
+         <ul>
+            <li> Clustered user stories </li>
+            <li>  </li>
+            <li>  </li>
+            <li>  </li>
+            <li> </li>
+         </ul>
+      </div>
+      <div id="backlog">
+         <p> <strong> Current Backlog in Order:</strong> Based on features provided in Kyle's solution</p>
+         <ul>
+            <li>  </li>
+           <li>  </li>
+         </ul>
+      </div>
+      <div id="upcoming">
+         <p> <strong> Narrative of Expected Work Before Next Report:</strong></p>
+         <ul>
+            <li> Learn how to use Zen to manage team deliverables </li>
+            <li> Learn how/where to upload HTML reports to get extra points for next report </li>
+            <li> Continue writing and prioritizing user stories </li>
+         </ul>
+      </div>
+
+
 
 <html lang="en">
    <head>
@@ -6,7 +44,7 @@
    
    <body>
       <div id="assignment">
-         <h1> <strong> Proud Voice Sprint Report 123
+         <h1> <strong> Proud Voice Sprint Report 1
          <p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>
             
          
@@ -61,44 +99,6 @@
          </ul>
       </div>
 
-             <div id="assignment">
-                
-                
-         <h1> <strong> Proud Voice Sprint Report 2
-         <p> <i> <strong> Date Created:</strong> 7 November 2021 </i> </p>
-            
-         
-   
-      <div id="burndown">
-         <p> <strong> Burn Down Chart:</strong> N/A </p>
-      </div>
-      <div id="completed">
-         <p> <strong> Completed Stories in this Sprint:</strong> Zero </p>
-      </div>
-      <div id="narrative">
-         <p> <strong> Narrative of What Was Accomplished Since Last Report:</strong></p>
-         <ul>
-            <li> Clustered user stories </li>
-            <li>  </li>
-            <li>  </li>
-            <li>  </li>
-            <li> </li>
-         </ul>
-      </div>
-      <div id="backlog">
-         <p> <strong> Current Backlog in Order:</strong> Based on features provided in Kyle's solution</p>
-         <ul>
-            <li>  </li>
-           <li>  </li>
-         </ul>
-      </div>
-      <div id="upcoming">
-         <p> <strong> Narrative of Expected Work Before Next Report:</strong></p>
-         <ul>
-            <li> Learn how to use Zen to manage team deliverables </li>
-            <li> Learn how/where to upload HTML reports to get extra points for next report </li>
-            <li> Continue writing and prioritizing user stories </li>
-         </ul>
-      </div>
+             
 
 
