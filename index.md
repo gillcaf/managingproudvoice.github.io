@@ -8,7 +8,7 @@
          <a href="https://imgur.com/GqfaFI2"><img src="https://i.imgur.com/GqfaFI2.png" title="source: imgur.com" width="300" height="300"/></a>
       </div>
       <div id="completed">
-         <p> <strong> Completed Stories in this Sprint:</strong> Zero </p>
+         <p> <strong> Completed Stories in this Sprint:</strong> 10 </p>
          <ul>
             <li> In this sprint we completed stories #10, 13, 14, 15,18, 21, 20, 19, 3 ,7 (see details in ZenHub) </li>
             <li> Most stories described the experience of a user visting a page and hoping to learning more about existing events </li>
