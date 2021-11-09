@@ -1,7 +1,5 @@
-         <h1> <strong> Proud Voice Sprint Report 1
-         <p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>
-            
-         
+<h1> <strong> Proud Voice Sprint Report 1
+<p> <i> <strong> Date Created:</strong> 31 Oct 2021 </i> </p>  
       <div id="team-info">
          <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
          <p> <i> <strong> Team Member Names and Emails:</strong> </i> </p>
