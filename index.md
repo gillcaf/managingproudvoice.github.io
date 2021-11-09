@@ -11,7 +11,8 @@
          </ul>
       </div>
       <div id="burndown">
-         <p> <strong> Burn Down Chart:</strong> N/A </p>
+         <p> <strong> Burn Down Chart:</strong> </p>
+         <a href="https://imgur.com/GqfaFI2"><img src="https://i.imgur.com/GqfaFI2.png" title="source: imgur.com" width="300" height="300"/></a>
       </div>
       <div id="completed">
          <p> <strong> Completed Stories in this Sprint:</strong> Zero </p>
