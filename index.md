@@ -11,7 +11,7 @@
          <p> <strong> Completed Stories in this Sprint:</strong> 10 </p>
          <ul>
             <li> In this sprint we completed stories #10, 13, 14, 15,18, 21, 20, 19, 3 ,7 (see details in ZenHub) </li>
-            <li> Most stories described the experience of a user visting a page and hoping to learning more about existing events </li>
+            <li> Most stories described the experience of a user visting a page and hoping to learn more about existing events </li>
          </ul> 
       </div>
       <div id="narrative">
