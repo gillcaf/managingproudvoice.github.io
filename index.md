@@ -5,7 +5,7 @@
       </div>
       <div id="burndown">
          <p> <strong> Sprint Burn Down Chart:</strong> </p>
-        <blockquote class="imgur-embed-pub" lang="en" data-id="a/jQgYBZJ"><a href="//imgur.com/jQgYBZJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+       <a href="https://imgur.com/B12ErGA"><img src="https://i.imgur.com/B12ErGA.png" title="source: imgur.com" width="300" height="300"/></a>
       </div>
       <div id="completed">
          <p> <strong> Completed Stories in this Sprint:</strong> 10 </p>
