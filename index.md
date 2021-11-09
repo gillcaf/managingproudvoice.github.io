@@ -17,7 +17,7 @@
       <div id="narrative">
          <p> <strong> Narrative of What Was Accomplished Since Last Report:</strong></p>
          <ul>
-            <li> a. We prioritized developed new user stories and prioritized our project progress into 3 new sprints. For this sprint we focused                  on the experience of a user visiting a site and hoping to find out information about existing events. The following sprints will                  focus on the experience of a user trying to register for an event, and on a manager trying to gauge information about traffic to                  their side 
+            <li> a. We wrote new user stories and organised them into 3 sprints. For this sprint we focused                                    on                     the experience of a user visiting a site and hoping to find out information about existing events. The following sprints                         will focus on the experience of a user trying to register for an event, and on a manager trying to gauge information about                       traffic to their side 
             </li>
             <li> b. We greated a git page repository so that our progress reports can be rendered through a browser and be made more legible                 </li>
             <li> c. We created and published a sprint burndown chart so that we can visually represent the progress of our project on these                        reports 
