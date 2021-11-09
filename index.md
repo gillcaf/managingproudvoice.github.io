@@ -17,10 +17,10 @@
       <div id="narrative">
          <p> <strong> Narrative of What Was Accomplished Since Last Report:</strong></p>
          <ul>
-            <li> a. We wrote new user stories and organised them into 3 sprints. For this sprint we focused                                    on                     the experience of a user visiting a site and hoping to find out information about existing events. The following sprints                         will focus on the experience of a user trying to register for an event, and on a manager trying to gauge information about                       traffic to their side 
+            <li> We wrote new user stories and organised them into 3 sprints. For this sprint we focused                                    on                     the experience of a user visiting a site and hoping to find out information about existing events. The following sprints                         will focus on the experience of a user trying to register for an event, and on a manager trying to gauge information about                       traffic to their side 
             </li>
-            <li> b. We created a git page repository so that our progress reports can be rendered through a browser </li>
-            <li> c. We created and published a sprint burndown chart so that we can visually represent the progress of our project on these                        reports 
+            <li> We created a git page repository so that our progress reports can be rendered through a browser </li>
+            <li> We created and published a sprint burndown chart so that we can visually represent the progress of our project on these                        reports 
             </li>
          </ul>
       </div>
@@ -33,10 +33,10 @@
       <div id="upcoming">
          <p> <strong> Narrative of Expected Work Before Next Report:</strong></p>
          <ul>
-            <li> a. confirm whether creating a new event is part of the scope for this project </li>
-            <li> b. seek out support to manage the Git Pages Repo </li>
-            <li> c. divide the programming work to develop backlog user stories </li>
-            <li> d. validate existing stories with the user/grader to ensure that our stories are covering key requirements </li>
+            <li> Confirm whether creating a new event is part of the scope for this project </li>
+            <li> Seek out support to manage the Git Pages Repo </li>
+            <li> Divide the programming work to develop backlog user stories </li>
+            <li> Validate existing stories with the user/grader to ensure that our stories are covering key requirements </li>
          </ul>
       </div>
 
