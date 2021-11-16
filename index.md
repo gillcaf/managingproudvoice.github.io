@@ -1,42 +1,41 @@
-<h1> <strong> Proud Voice Sprint Report 345 </h1>
-      <p> <i> <strong> Date Created:</strong> 9 November 2021 </i> </p>  
+<h1> <strong> Proud Voice Sprint Report 3 </h1>
+      <p> <i> <strong> Date Created:</strong> 16 November 2021 </i> </p>  
       <div id="team-info">
          <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
       </div>
       <div id="burndown">
          <p> <strong> Sprint Burn Down Chart:</strong> </p>
-       <a href="https://imgur.com/B12ErGA"><img src="https://i.imgur.com/B12ErGA.png" title="source: imgur.com" width="500" height="300"/></a>
+       <a href="https://imgur.com/ejtqSFy"><img src="https://i.imgur.com/ejtqSFy.png" title="source: imgur.com" width="500" height="300"/></a>
       </div>
       <div id="completed">
          <p> <strong> Completed Stories in this Sprint:</strong> 10 </p>
          <ul>
-            <li> In this sprint we completed stories #10, 13, 14, 15,18, 21, 20, 19, 3 ,7 (see details in ZenHub) </li>
-            <li> Most stories described the experience of a user visting a page and hoping to learn more about existing events </li>
+            <li> In this sprint we completed stories: #29, #25, #11, #30, #26, #31 (see details in Zenhub) </li>
+            <li> The idea behind this sprint was to develop the functionality of the site so that we can start to receive and measure traffic </li>
          </ul> 
       </div>
       <div id="narrative">
          <p> <strong> Narrative of What Was Accomplished Since Last Report:</strong></p>
          <ul>
-            <li> We wrote new user stories and organised them into 3 sprints. For this sprint we focused                                    on                     the experience of a user visiting a site and hoping to find out information about existing events. The following sprints                         will focus on the experience of a user trying to register for an event, and on a manager trying to gauge information about                       traffic to their side 
+            <li> We developed links that the user can utilize to navigate across the homepage, the events page, and the about page 
             </li>
-            <li> We created a git page repository so that our progress reports can be rendered through a browser </li>
-            <li> We created and published a sprint burndown chart so that we can visually represent the progress of our project on these                        reports 
-            </li>
+            <li> Alongside the ability to direct traffic on the site, we established an about page, created content for the about page, a site introduction, and a site logo for the preliminary user interface
+ </li>
          </ul>
       </div>
       <div id="backlog">
          <p> <strong> Current Backlog in Order:</strong> </p>
          <ul>
-            <li> Our current backlog, in order, is made of stories #2,4,6,5,1,8,16,11,22 (see zenhub for details) </li>
+            <li> Our current backlog, in order, is made of stories #4, #5, #6, #16, #36, #39, #33, #34, #23 (see zenhub for details) </li>
          </ul>
       </div>
       <div id="upcoming">
          <p> <strong> Narrative of Expected Work Before Next Report:</strong></p>
          <ul>
-            <li> Confirm whether creating a new event is part of the scope for this project </li>
-            <li> Seek out support to manage the Git Pages Repo </li>
-            <li> Divide the programming work to develop backlog user stories </li>
-            <li> Validate existing stories with the user/grader to ensure that our stories are covering key requirements </li>
+            <li> Minor debugging before we push to provide tools for the Event Host to set the event link, time, location and contact details alongside a systematic barrier to only allow Yale attendees </li>
+            <li> Create an event donation link </li>
+            <li> Ensure there are no errors on the event page and no broken links across the site </li>
+            <li> Style the site using CSS frameworks </li>
          </ul>
       </div>
 
