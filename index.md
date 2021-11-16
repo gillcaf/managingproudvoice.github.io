@@ -1,4 +1,4 @@
-<h1> <strong> Proud Voice Sprint Report 3 </h1>
+<h1> <strong> Proud Voice Sprint Report 3 </strong> </h1>
       <p> <i> <strong> Date Created:</strong> 16 November 2021 </i> </p>  
       <div id="team-info">
          <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
