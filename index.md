@@ -7,7 +7,15 @@
       </div>
       <div id="burndown">
          <p> <strong> Project Burn Up Chart:</strong> </p>
-       <a href="https://imgur.com/oCvUdiG"><img src="https://i.imgur.com/oCvUdiG.png" title="source: imgur.com" width="500" height="300"/></a>
+       <a href="https://imgur.com/Gr8LQS7"><img src="https://i.imgur.com/Gr8LQS7.png" title="source: imgur.com" width="500" height="300"/></a> 
+      </div>
+      <div id="uncompleted">
+         <p> <strong> Story & Test Backlog:</strong> </p>
+       <ul>
+            <li> SPRINT BACKLOG: As an event host, I want to share my contact details so that my fellow yalies can reach me if they require more information </li>
+            <li> EPIC: As an event host, I want to share my event on social channels so that I can market and entice people to come </li>
+            <li> NEW ISSUES/TESTS: HTML tests and making changes to the API Display </li>
+         </ul> 
       </div>
       <div id="trafficanalysis">
          <p> <strong> Traffic Analysis:</strong> </p>
@@ -18,7 +26,7 @@
             <li> Source: Google Analytics </li>
          </ul> 
       </div>
-      <div id="trafficanalysis">
+      <div id="abtesting">
          <p> <strong> A/B Testing:</strong> </p>
        <ul>
             <li> For the A/B testing, we created a feature that randomizes the button to direct either to a /donate or /support page </li>
