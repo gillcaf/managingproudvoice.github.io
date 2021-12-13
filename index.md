@@ -7,7 +7,7 @@
       </div>
       <div id="burndown">
          <p> <strong> Project Burn Up Chart:</strong> </p>
-       <a href="https://imgur.com/oCvUdiG"><img src="https://i.imgur.com/oCvUdiG.png" title="source: imgur.com" width="1000" height="600"/></a>
+       <a href="https://imgur.com/oCvUdiG"><img src="https://i.imgur.com/oCvUdiG.png" title="source: imgur.com" width="500" height="300"/></a>
       </div>
       <div id="trafficanalysis">
          <p> <strong> Traffic Analysis:</strong> </p>
