@@ -15,6 +15,7 @@
        <ul>
             <li> Note that traffic is limited as we had changed our heroku app link during the project and as such, have only been tracking traffic for a week</li>
             <li> However, ideally this should not affect the distribution of traffic significantly even as overall user numbers are low </li>
+            <li> Source: Google Analytics </li>
          </ul> 
       </div>
       <div id="trafficanalysis">
