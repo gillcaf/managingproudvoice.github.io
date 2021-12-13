@@ -1,4 +1,32 @@
 <h1> 
+      <strong> Proud Voice Final Submission
+</h1>
+      <p> <i> <strong> Date Created:</strong> 13 December 2021 </i> </p>  
+      <div id="team-info">
+         <p > <i> <strong> Team Name:</strong> Proud Voice </i> </p>
+      </div>
+      <div id="burndown">
+         <p> <strong> Project Burn Up Chart:</strong> </p>
+       <a href="https://imgur.com/oCvUdiG"><img src="https://i.imgur.com/oCvUdiG.png" title="source: imgur.com" width="1000" height="600"/></a>
+      </div>
+      <div id="trafficanalysis">
+         <p> <strong> Traffic Analysis:</strong> </p>
+       <a href="https://imgur.com/Ujgffd5"><img src="https://i.imgur.com/Ujgffd5.png" title="source: imgur.com" width="600" height="280"/></a>
+       <ul>
+            <li> Note that traffic is limited as we had changed our heroku app link during the project and as such, have only been tracking traffic for a week</li>
+            <li> However, ideally this should not affect the distribution of traffic significantly even as overall user numbers are low </li>
+         </ul> 
+      </div>
+      <div id="trafficanalysis">
+         <p> <strong> A/B Testing:</strong> </p>
+       <ul>
+            <li> For the A/B testing, we created a feature that randomizes the button to direct either to a /donate or /support page </li>
+            <li> This feature and the code behind it was discussed with Professor Jensen as an acceptable approach to the project requirement </li>
+            <li> While this feature is available and works in the code base, none of the bots clicked on the button. The only analysis we have is from our own usage of the site. As such, it has not been included in the final report </li>
+         </ul> 
+      </div>
+
+<h1> 
       <strong> Proud Voice Sprint Report 3 
 </h1>
       <p> <i> <strong> Date Created:</strong> 16 November 2021 </i> </p>  
